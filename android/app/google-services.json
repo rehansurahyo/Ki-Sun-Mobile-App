@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291561999324",
+    "project_id": "ki-sun-lounge-app",
+    "storage_bucket": "ki-sun-lounge-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291561999324:android:ad219669a9e15e43921d19",
+        "android_client_info": {
+          "package_name": "com.example.ki_sun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsURQ3JeiPJ_cbxVxFcNSiA3EhCJwg-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
